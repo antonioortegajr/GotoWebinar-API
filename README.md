@@ -1,7 +1,7 @@
 GotoWebinar-API
 ===============
 
-Standard Disclaimer: This code is not official GotoWebinar code. It does use their API, but in NO WAY is it supported by IDX Broker. DO NOT contact GotoWebinar for any support of this code.
+Standard Disclaimer: This code is not official GotoWebinar code. It does use their API, but in NO WAY is it supported by GotoWebinar. DO NOT contact GotoWebinar for any support of this code.
 
 API calls for GotoWebinar
 
